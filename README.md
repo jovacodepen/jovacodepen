@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Sam!
-- 👀 I’m interested in further developing my frontend skills and building my backend skills
-- 🌱 I’m currently learning Expressjs and the MEAN development stack and completing challenges on provided by Frontend mentor (see all solutions uploaded in my repositories)
+# 👋 Hi, I’m Sam!
+
+## Contents 
+
+
+ 👀 I’m interested in further developing my frontend skills and I'm learning the MERN stack
+
 - 📫 You can check out my portfolio at https://jovacode.com/
 
 <!---
